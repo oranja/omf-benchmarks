@@ -1,0 +1,90 @@
+Entering ../oh-my-fish/
+iterations: 10000
+repo state: same
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 36.98
+user 13.95
+sys 27.85
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 20.64
+user 9.38
+sys 11.86
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 20.61
+user 13.06
+sys 17.08
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 41.55
+user 16.89
+sys 25.22
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 40.21
+user 16.14
+sys 24.82
+
+===================================================================================
+
+Entering ../oh-my-fish/
+iterations: 10000
+repo state: same
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 39.38
+user 14.84
+sys 28.68
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 20.57
+user 9.53
+sys 11.48
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 20.35
+user 12.80
+sys 17.27
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 40.47
+user 16.36
+sys 25.00
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 40.28
+user 16.13
+sys 24.83
+
+===================================================================================
+
+Entering ../oh-my-fish/
+iterations: 10000
+repo state: same
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 37.50
+user 14.20
+sys 27.82
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 20.26
+user 9.26
+sys 11.55
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 20.37
+user 13.12
+sys 16.98
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 40.88
+user 16.63
+sys 24.96
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 39.99
+user 15.74
+sys 24.93

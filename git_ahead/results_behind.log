@@ -1,0 +1,90 @@
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: behind
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 37.39
+user 13.77
+sys 28.05
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 19.07
+user 8.49
+sys 11.19
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 19.26
+user 12.54
+sys 16.29
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 42.90
+user 17.09
+sys 29.95
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 42.32
+user 16.51
+sys 29.98
+
+===================================================================================
+
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: behind
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 36.54
+user 13.56
+sys 27.48
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 18.94
+user 8.41
+sys 11.18
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 19.89
+user 12.87
+sys 16.26
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 42.66
+user 16.95
+sys 29.77
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 42.29
+user 16.43
+sys 29.93
+
+===================================================================================
+
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: behind
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 36.71
+user 13.53
+sys 27.49
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 19.20
+user 8.65
+sys 11.13
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+real 19.79
+user 12.72
+sys 16.50
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 43.92
+user 17.42
+sys 30.34
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 42.39
+user 16.60
+sys 29.89

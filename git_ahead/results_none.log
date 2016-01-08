@@ -1,0 +1,14 @@
+Entering ../oh-my-fish/
+iterations: 10000
+repo state: 
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+... wrong state reported
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+... wrong state reported
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+... wrong state reported
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+... wrong state reported

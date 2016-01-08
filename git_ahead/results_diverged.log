@@ -1,0 +1,84 @@
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: diverged
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 35.51
+user 12.98
+sys 27.27
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 19.89
+user 8.87
+sys 11.50
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+... wrong state reported
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 44.35
+user 17.99
+sys 30.41
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 43.02
+user 17.32
+sys 29.92
+
+
+===================================================================================
+
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: diverged
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 37.41
+user 13.53
+sys 28.11
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 19.64
+user 8.93
+sys 11.28
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+... wrong state reported
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 44.62
+user 17.91
+sys 30.87
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 46.02
+user 18.45
+sys 31.37
+
+===================================================================================
+
+Entering ../omf-plugin-sudope/
+iterations: 10000
+repo state: diverged
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_if.fish
+real 36.61
+user 13.28
+sys 27.86
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_c_switch.fish
+real 19.76
+user 8.85
+sys 11.49
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_awk.fish
+... wrong state reported
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_if.fish
+real 44.30
+user 17.93
+sys 30.53
+
+Testing /home/oranja/Projects/OrangeBright/benchmarks/git_ahead_nc_switch.fish
+real 43.30
+user 17.20
+sys 30.51
